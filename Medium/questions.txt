@@ -1,0 +1,2 @@
+ 1. Remove Duplicates from an array (array either can be a string or a number based)
+ example - 
